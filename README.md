@@ -1,14 +1,14 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/002/214/644/original/web-designer-and-programmer-free-vector.jpg)]
 
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_6804917.png"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhandarisagar248&label=Profile%20views&color=0e75b6&style=flat" alt="bhandarisagar248" /> </p>
 
-- 🌱 I’m currently learning **Java,Kotlin**
+- 🌱 I’m currently learning **Kubernate,Docker,AWS**
 
-- 💬 Ask me about **C,C++,Java**
+- 💬 Ask me about **C,C++,Java,React**
 
 - 📫 How to reach me **sagarbhandari901@gmail.com**
 
